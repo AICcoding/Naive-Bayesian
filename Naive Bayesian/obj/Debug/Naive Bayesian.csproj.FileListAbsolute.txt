@@ -1,0 +1,10 @@
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\bin\Debug\Naive Bayesian.exe.config
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\bin\Debug\Naive Bayesian.exe
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\bin\Debug\Naive Bayesian.pdb
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive Bayesian.csprojResolveAssemblyReference.cache
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive_Bayesian.Form1.resources
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive_Bayesian.Properties.Resources.resources
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive Bayesian.csproj.GenerateResource.Cache
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive Bayesian.exe
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive Bayesian.pdb
+d:\file\visual studio 2013\Projects\Naive Bayesian\Naive Bayesian\obj\Debug\Naive_Bayesian.Bayesian.resources
